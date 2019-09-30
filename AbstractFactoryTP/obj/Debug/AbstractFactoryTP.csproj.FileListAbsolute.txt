@@ -1,0 +1,7 @@
+C:\Users\adrienmechin\source\repos\AbstractFactoryTP\AbstractFactoryTP\obj\Debug\AbstractFactoryTP.csprojAssemblyReference.cache
+C:\Users\adrienmechin\source\repos\AbstractFactoryTP\AbstractFactoryTP\obj\Debug\AbstractFactoryTP.csproj.CoreCompileInputs.cache
+C:\Users\adrienmechin\source\repos\AbstractFactoryTP\AbstractFactoryTP\bin\Debug\AbstractFactoryTP.exe.config
+C:\Users\adrienmechin\source\repos\AbstractFactoryTP\AbstractFactoryTP\bin\Debug\AbstractFactoryTP.exe
+C:\Users\adrienmechin\source\repos\AbstractFactoryTP\AbstractFactoryTP\bin\Debug\AbstractFactoryTP.pdb
+C:\Users\adrienmechin\source\repos\AbstractFactoryTP\AbstractFactoryTP\obj\Debug\AbstractFactoryTP.exe
+C:\Users\adrienmechin\source\repos\AbstractFactoryTP\AbstractFactoryTP\obj\Debug\AbstractFactoryTP.pdb
